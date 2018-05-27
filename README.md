@@ -1,4 +1,4 @@
-# sevtixrage
+# sevtixrage (www.rage.mp)
 Meine selbsterstellten RAGE.MP Skripte
 
 # Befehle:
@@ -11,7 +11,5 @@ Meine selbsterstellten RAGE.MP Skripte
 # /lv <slot/name> - Lädt und Spawnt ein gespeichertes Fahrzeug
 # /p - Deine Position
   
-TODO:\n
-/dv <slot/name> - Löscht ein gespeichertes Fahrzeug
-
-www.rage.mp\n
+# TODO:
+# /dv <slot/name> - Löscht ein gespeichertes Fahrzeug
