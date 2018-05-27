@@ -3,15 +3,15 @@ Meine selbsterstellten RAGE.MP Skripte
 
 # Befehle:
 # /v <name> - Spawnt ein Fahrzeug
-# /r - Repariert ein Fahrzeug\n
-# /h - Heilt dich\n
-# /m <type> <selection> - Wendet Fahrzeugmodifikationen an\n
-# /c <r1> <g1> <b1> <r2> <g2> <b2> - Wendet Färbungen an\n
-# /sv <slot/name> - Speichert ein Fahrzeug\n
-# /lv <slot/name> - Lädt und Spawnt ein gespeichertes Fahrzeug\n
-# /p - Deine Position\n
+# /r - Repariert ein Fahrzeug
+# /h - Heilt dich
+# /m <type> <selection> - Wendet Fahrzeugmodifikationen an
+# /c <r1> <g1> <b1> <r2> <g2> <b2> - Wendet Färbungen an
+# /sv <slot/name> - Speichert ein Fahrzeug
+# /lv <slot/name> - Lädt und Spawnt ein gespeichertes Fahrzeug
+# /p - Deine Position
   
 TODO:\n
-/dv <slot/name> - Löscht ein gespeichertes Fahrzeug\n
+/dv <slot/name> - Löscht ein gespeichertes Fahrzeug
 
 www.rage.mp\n
