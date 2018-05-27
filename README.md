@@ -1,5 +1,5 @@
 # sevtixrage
-my selfmade rage.mp scripts
+Meine selbsterstellten RAGE.MP Skripte
 
 # Befehle:
 /v <name> - Spawnt ein Fahrzeug
@@ -13,3 +13,5 @@ my selfmade rage.mp scripts
   
 TODO:
 /dv <slot/name> - Löscht ein gespeichertes Fahrzeug
+
+www.rage.mp
