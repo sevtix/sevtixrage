@@ -197,6 +197,8 @@ mp.events.addCommand("lv", (player, fullText, arg0) => {
     player.putIntoVehicle(veh, -1);
 });
 
+//TODO: delete vehicle
+
 mp.events.addCommand('dv', (player, fullText, arg0) => {
   if(arg0 != null) {
     player.notify("Diese Funktion ist noch in Entwicklung. Nutze einfach einen neuen Slot.");
